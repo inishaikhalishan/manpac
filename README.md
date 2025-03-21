@@ -20,7 +20,7 @@
 ## Installation
 * Clone the repository:
    * ```shell
-      git clone https://github.com/yourusername/manpac.git
+      git clone https://github.com/iniridwanul/manpac.git
       cd manpac
       ```
 * Make the script executable:
